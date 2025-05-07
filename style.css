@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+* {
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: "Dongle", sans-serif;
+    background-image: url('./asset/cooki7.JPG');
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+
+h2 {
+    font-size: 40px;
+}
+
+a.instagramHighlight {
+    color: rgb(204, 52, 95);
+    margin-bottom: 50px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: rgb(204, 52, 95, 0.5);    
+    margin: 0px;
+    margin-bottom: 8px;
+}
+
+span.cookiad {
+    background-color: rgb(205, 91, 91, 0.5);
+    /* opacity: 0.5; */
+    padding: 2px 6px;
+}
+
+.cooki1, .cooki2, .cooki3, .cooki4, .cooki5 {
+    width: 10vw;
+    height: auto;
+}
+
+h4 {
+    margin-top: 20px;
+}
+
+p {
+    color: rgb(204, 52, 95, 0.3);
+}
